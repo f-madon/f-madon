@@ -5,4 +5,3 @@ Here you can find some of the projects I worked on during these years and nowday
 
 🎓Background: Bachelor's Degree in Mathematics at <a href="https://www.unimib.it/triennale/matematica">Università degli Studi di Milano-Bicocca</a>.
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=f-madon&theme=vue)]()
