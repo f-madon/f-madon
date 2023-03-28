@@ -7,4 +7,4 @@ Here you can find some of the projects I worked on during these years and nowday
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-madon&layout=compact)](https://github.com/f-madon)
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/federica-madon/"><img align=”left” src=”https://raw.githubusercontent.com/f-madon/f-madon/main/Images/linkedin.png" alt=”Federica Madon | LinkedIn” width=”21px”/></a>
