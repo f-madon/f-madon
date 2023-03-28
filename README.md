@@ -5,6 +5,15 @@ Here you can find some of the projects I worked on during these years and nowday
 
 🎓Background: Bachelor's Degree in Mathematics at <a href="https://www.unimib.it/triennale/matematica">Università degli Studi di Milano-Bicocca</a>.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-madon&layout=compact)](https://github.com/f-madon)
+<div align='center'>
+  <p align='center'>
+    <code> <a href="https://www.linkedin.com/in/federica-madon/"><img height="30" src="https://github.com/f-madon/f-madon/blob/main/Images/linkedin.png?raw=true"></a> LinkedIn </code>&nbsp;&nbsp;
+    
+ <!-- <a href=" ---- "><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto: ---- "><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  -->
+    
+</p> 
+</div>
 
-<a href=”https://www.linkedin.com/in/federica-madon/"><img align=”left” src=”https://raw.githubusercontent.com/f-madon/f-madon/main/Images/linkedin.png" alt=”Federica Madon | LinkedIn” width=”21px”/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-madon&layout=compact)](https://github.com/f-madon)
